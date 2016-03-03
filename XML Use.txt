@@ -1,0 +1,13 @@
+what is markup language:
+extesible Makup Language
+
+red markup:
+balck ordinary
+
+what u need ?
+
+
+tags and element:
+
+     <name>                 neeraj Sahu            </name> 
+ 
